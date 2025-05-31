@@ -94,7 +94,7 @@ const siteConfig: SiteConfig = {
   
   contactInfo: {
     phone: "(87) 9 9823-5303",
-    email: "terrafortepremodados@hotmail.com",
+    email: "terrafortepremoldados@hotmail.com",
     address: "Trav. Dr. Valdir Leopercio n° 15 - Bairro: Nossa Senhora de Fátima - Ouricuri-PE"
   }
 };
